@@ -1,0 +1,205 @@
+@CHARSET "UTF-8";
+/*共享部分*/
+body {
+	margin: 0px;
+	padding: 0px;
+	font-family: "微软雅黑", "宋体", Arial, Helvetica, sans-serif;
+}
+
+ul,ol,li {
+	margin: 0px;
+	padding: 0px;
+	list-style: none;
+}
+
+a {
+	text-decoration: none;
+	outline: none;
+}
+
+a:hover {
+	text-decoration: none;
+}
+
+img {
+	border: 0px;
+}
+
+h1,h2,h3,h4,h5,h6,p,input,button,select,dl,dd,dr {
+	margin: 0px;
+	padding: 0px;
+	outline: none;
+}
+
+textarea {
+	resize: none; /*取消谷歌可拖动大小*/
+}
+
+.clear {
+	clear: both;
+	height: 0px;
+	width: 0px;
+	font-size: 0px;
+	overflow: hidden;
+}
+
+.clear1 {
+	clear: both;
+	height: 5px;
+	width: 100% px;
+	font-size: 0px;
+	overflow: hidden;
+}
+
+.clear2 {
+	clear: both;
+	height: 10px;
+	width: 100% px;
+	font-size: 0px;
+	overflow: hidden;
+}
+
+.clear3 {
+	clear: both;
+	height: 15px;
+	width: 100%;
+	font-size: 0px;
+	overflow: hidden;
+}
+
+.clear4 {
+	clear: both;
+	height: 20px;
+	width: 100%;
+	font-size: 0px;
+	overflow: hidden;
+}
+
+.clear5 {
+	clear: both;
+	height: 25px;
+	width: 100%;
+	font-size: 0px;
+	overflow: hidden;
+}
+
+.clear6 {
+	clear: both;
+	height: 30px;
+	width: 100%;
+	font-size: 0px;
+	overflow: hidden;
+}
+
+/**
+ × OA_NEWS
+ */
+.oa_news_read {
+	float: left;
+	_display: inline;
+	width: 700px;
+	padding-right: 50px;
+	padding-left: 50px;
+	padding-top: 50px;
+}
+
+.oa_news_read .title {
+	font-size: 26px;
+	font-weight: bold;
+	line-height: 31px;
+	letter-spacing: -1px;
+}
+
+.oa_news_read .time {
+	float: left;
+	_display: inline;
+	padding-bottom: 6px;
+	font-size: 12px;
+	height: 49px;
+	line-height: 49px;
+	font-family: Arial, "\5B8B\4F53", sans-serif;
+	color: #888888;
+}
+
+.cDGray,a.cDGray:visited,.cDGray a,.cDGray a:visited {
+	color: #888888;
+}
+
+.left {
+	float: left;
+}
+
+.text_content {
+	width: 580px;
+	margin-right: 10px;
+	overflow: hidden;
+	text-align: justify;
+	text-justify: inter-ideograph;
+	clear: both;
+	font-size: 14px;
+	line-height: 24px;
+	padding-bottom: 20px;
+	word-wrap: break-word;
+}
+
+.annex {
+	_display: inline;
+	font-size: 12px;
+	padding: 6px 0;
+	width: 575px;
+	border: #FFD47F 1px solid;
+	background-color: #FFFFD4;
+}
+
+.annexul {
+	margin-top: 10px;
+	margin-left: 35px;
+	margin-bottom: 10px;
+	line-height: 30px;
+}
+
+.source {
+	float: right;
+	_display: inline;
+	font-size: 12px;
+	line-height: 13px;
+	padding: 6px 0;
+	margin-top: 10px;
+}
+
+/*---文件保存按钮中间位置---*/
+.poa_btncenone {
+	margin: 20px auto 20px auto;
+	width: 480px;
+	height: 60px;
+}
+
+.poa_btncenone a {
+	display: block;
+	float: left;
+	margin: 10px;
+	height: 50px;
+	line-height: 45px;
+	text-align: center;
+	background: url(../images/flowbtn.jpg) no-repeat 0px 0px;
+	color: #FFF;
+	font-weight: bold;
+	font-size: 16px;
+	text-decoration: none;
+	padding-left: 50px;
+}
+
+.poa_btncenone a span {
+	display: block;
+	background: url(../images/flowbtn.jpg) no-repeat right 0px;
+	padding-right: 55px;
+}
+
+.poa_btncenone a:hover {
+	background: url(../images/flowbtn.jpg) no-repeat 0px -50px;
+}
+
+.poa_btncenone a:hover span {
+	background: url(../images/flowbtn.jpg) no-repeat right -50px;
+}
+/*文件保存按钮中间位置*/

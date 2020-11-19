@@ -1,0 +1,32 @@
+.all{ width:700px; margin:0 auto; margin-top:20px; padding-top:30px; background-color:#fff; border:1px solid #dddddd;}
+.header{}
+.header .logo{ float:left; border-right:1px solid #c3c3c3; padding:0px 15px 0px 20px;}
+.header h2{ float:left; font-size:24px; line-height:px; color:#004337; padding:40px 20px 0px 15px; font-weight:100;}
+
+.bodyer{  width:750px;  margin:0 auto; margin-top:50px; padding-bottom:50px;}
+/*poaShow begin*/
+.khyjdcb{ width:750px; margin:0 auto; }
+.khyjdcb .yd{}
+.khyjdcb .yd span{ font-size:14px; line-height:50px; color:#656565; padding-right:5px;}
+.khyjdcb .yd span a{color:#656565;}
+.khyjdcb .yd span a:hover{ color:#ff0000;}
+.table1{border:1px solid #dadedc;}
+.table1 h1{ font-size:24px; line-height:70px; color:#000000; text-align:center; border-bottom:1px solid #dadedc;}
+.table1 .p1{ width:750px; margin:0 auto; padding:10px 0px; font-size:13px; line-height:24px; color:#656565;margin-left:10px;}
+.table1 h2{ font-size:14px; line-height:30px; color:#656565; border-top:1px solid #dadedc; border-bottom:1px solid #dadedc; background-color:#f3f3f3; text-indent:30px; font-weight:100;}
+.table1 .innter1,.innter2,.innter3,.innter4,.innter5,.innter6,.innter7{ padding-left:15px;padding-right:15px;font-size:13px;}
+.table1 .innter4 textarea{ width:700px; height:80px; border:1px solid #a9a9a9; overflow:auto;}
+.table1 .innter5 textarea{ width:700px; height:80px; border:1px solid #a9a9a9; overflow:auto;}
+.table1 .innter6 textarea{ width:700px; height:80px; border:1px solid #a9a9a9; overflow:auto;}
+.table1 .innter7 input{ float:left; display:block; width:15px; height:15px; background-color:transparent; border:0px solid #acacac;}
+.table1 .innter7 span{float:left; display:block;  font-size:14px; line-height:15px; color:#5e5e5e; padding-left:5px; padding-right:50px;}
+.table1 .innter7 .span1{ width:auto; line-height:26px;}
+.table1 .innter7 .span2{  font-size:14px; line-height:30px; color:#656565; font-weight:900; border-bottom:2px solid #656565; padding:0px;}
+.table1 .innter7 button{ background:url(../image/khzx/button1.jpg) center no-repeat; width:267px; height:30px; border:0px; cursor:pointer;}
+
+.footer{width:970px; margin:0 auto; padding:20px 0px 40px 0px;}
+.footer_left{ float:left; font-size:12px; line-height:15px; color:#969696;}
+.footer_right{ float:right; font-size:12px; line-height:15px; color:#969696;}
+.footer_right span{ float:left; margin-left:10px;}
+.footer_right a{color:#969696;}
+.footer_right a:hover{ color:#ff0000;}

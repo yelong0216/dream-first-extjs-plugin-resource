@@ -1,0 +1,163 @@
+* {
+	margin: 0;
+	padding: 0;
+}
+
+body {
+	/* background:#cccccc59; */
+	width: 100%;
+	height: 100%;
+}
+
+.background {
+	position: fixed;
+	width: 100%;
+	height: 100%;
+	background: #cccccc2e;
+	justify-content: center;
+	align-items: center;
+	display: -webkit-flex;
+}
+
+.box {
+	width: 100%;
+	height: 100%;
+	background: #fff;
+	border: 1px solid #ccc;
+	position: relative;
+	padding: 10px;
+	box-sizing: border-box;
+}
+
+.auto {
+	width: 100%;
+	height: 100%;
+	margin: auto;
+	background: #fff;
+	/* border: 1px dashed #ccc; */
+}
+
+.auto p {
+	margin-left: 20px;
+	line-height: 148px;
+	display: inline-block;
+}
+
+select {
+	margin-left: 20px;
+	width: 160px;
+	height: 25px;
+	line-height: 25px;
+	padding-left: 10px;
+}
+
+td input {
+	margin-left: 20px;
+	width: 160px;
+	height: 23px;
+	margin-right: 20px;
+	text-indent: 12px;
+}
+
+td button {
+	margin-right: 10px;
+	width: 40px;
+	border: 1px solid #ccc;
+	width: 40px;
+	height: 25px;
+	border-radius: 3px;
+	margin-top: 3px;
+}
+
+.sure {
+	margin-right: 15px;
+	border: 1px solid #ccc;
+	width: 60px;
+	height: 25px;
+	float: right;
+	margin-top: 13px;
+	cursor: pointer;
+	border-radius: 3px;
+	background: #fff;
+}
+
+p img {
+	width: 20px;
+	margin-top: 66px;
+	cursor: pointer;
+}
+
+#box {
+	margin-left: 20px;
+	width: 160px;
+	height: 23px;
+	margin-right: 20px;
+}
+
+table {
+	width: 100%;
+	height: 100%;
+}
+
+.table {
+	/* width: 624px; */
+	height: 100%;
+	overflow: auto;
+	margin-right: 10px;
+}
+
+select, input {
+	border-radius: 3px;
+	border: 1px solid #ccc;
+}
+
+select:disabled {
+	background: #EBEBE4;
+}
+
+select:disabled {
+	background: #EBEBE4;
+}
+
+button:disabled {
+	background: #EBEBE4;
+}
+
+#img {
+	background: url('/images/filtrate/del.png') no-repeat 13px 4px;
+	background-size: 30% 60%;
+}
+
+input {
+	width: 160px !important;
+}
+
+select {
+	width: 160px !important;
+}
+
+/* .table {
+	width: 740px;
+	height: 175px;
+} */
+
+.layui-laydate-content td.laydate-selected {
+	background-color: #135975;
+	color: #fff;
+}
+
+.laydate-selected:hover {
+	background-color: #135975 !important;
+}
+
+.layui-input {
+	height: 26px;
+}
+
+.layui-laydate-footer span:hover {
+	color: #135975;
+}
+
+.layui-laydate-footer span[lay-type=date] {
+	color: #135975;
+}

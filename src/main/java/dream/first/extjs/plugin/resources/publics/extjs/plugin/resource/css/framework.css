@@ -1,0 +1,94 @@
+.x-toolbar-sencha {
+  background-image: -webkit-gradient(linear, 50% 0%, 50% 100%, color-stop(0%, #aee4e4), color-stop(100%, #94d3d4));
+  background-image: -webkit-linear-gradient(top, #aee4e4, #94d3d4);
+  background-image: -moz-linear-gradient(top, #aee4e4, #94d3d4);
+  background-image: -o-linear-gradient(top, #aee4e4, #94d3d4);
+  background-image: -ms-linear-gradient(top, #aee4e4, #94d3d4);
+  background-image: linear-gradient(top, #aee4e4, #94d3d4);
+  filter: progid:DXImageTransform.Microsoft.Gradient(startColorStr='#aee4e4',endColorStr='#94d3d4',gradientType='0'); 
+  border-bottom: 1px solid #567422;
+}
+
+.x-toolbar-sencha-header-height {
+	height:50px;
+} 
+
+.x-toolbar-sencha-footer-height {
+	height:25px;
+}
+
+.x-toolbar-sencha .x-logo {
+  position:absolute;
+  padding: 15px 10px 10px 31px;
+  color: #000;
+  font-size: 18px;
+} 
+
+.x-logo span{
+  font-size: 12px;
+  font-weight: normal;
+  margin: 0 0 0 20px;
+}
+.x-footer {
+	text-align: center;
+	font-size: 13px;
+	color:#000;
+}
+
+.x-footer div {
+	padding-top:2px;
+}
+
+.examples-list .x-grid-cell,
+.examples-list .x-grid-rowwrap-div {
+  -moz-border-radius: 4px;
+  -webkit-border-radius: 4px;
+  -o-border-radius: 4px;
+  -ms-border-radius: 4px;
+  -khtml-border-radius: 4px;
+  border-radius: 4px;
+}
+
+.x-toolbar-system {
+   position : absolute;
+   text-align:right;
+   font-size:12px;
+   color:#000;
+   padding-right:10px;
+   padding-top:5px;
+   float:right;
+}
+
+.x-toolbar-system a{
+	text-decoration:none;
+	color:#000;
+}
+   
+.x-toolbar-system a:hover{
+   text-decoration:underline;
+   }
+   
+.click_span {
+	cursor : pointer ;
+}
+
+.x-text-readonly {
+	border-color : #ffffff
+}
+
+.x-text-disabled .x-form-text {
+	background: #e0e9f5 repeat-x 0 0;
+}
+  
+/* 表格和表格中的字体大小 */
+  .x-grid-cell {
+  color: null;
+  /* font: normal 13px/15px helvetica, arial, verdana, sans-serif; */
+  font: normal 12px/150% tahoma,arial,Microsoft YaHei,Hiragino Sans GB,"\u5b8b\u4f53",sans-serif;
+  background-color: white;
+  border-color: #ededed;
+  border-style: solid;
+}
+.x-column-header {
+	font: bold 12px/150% helvetica,arial,verdana,sans-serif;
+}

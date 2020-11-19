@@ -1,0 +1,3 @@
+@import '../ext-theme-classic/ext-theme-classic-all.css';
+.x-tree-node-expanded  .small-iconCls{background-image: url(../images/default/tree/app_boxes.png)}
+.x-tree-node-collapsed  .small-iconCls{background-image: url(../images/default/tree/app_left.png)}

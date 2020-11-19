@@ -1,0 +1,96 @@
+#box{
+  position: relative;
+  width:100%;
+  .login_img{
+    width:100%;
+  }
+  .box_body{
+    position:absolute;
+    top:0px;
+    left:0;
+    width:100%;
+    .body_bg{
+      position: absolute;
+      z-index: 0;
+      right:50%;
+      margin-right: -170px;
+      width:340px;
+      height:360px;
+      border-radius: 10px;
+      background-color: #000;
+      opacity: 0.7;
+      filter:alpha(opacity=70);
+      img{
+        position: absolute;
+        top:20px;
+        left:30px;
+      }
+    }
+    .content{
+      position: absolute;
+      z-index: 1;
+      right:50%;
+      margin-right: -150px;
+      width:300px;
+      height:300px;
+      .login_header{
+        position: relative;
+        margin:90px auto 0;
+        width:300px;
+        height:60px;
+        text-align: center;
+        color:#CFD0D1;
+        font-weight: bold;
+        font-size: 16px;
+        font-family: '黑体';
+      }
+      .login_content{
+        position: relative;
+        margin: auto;
+        margin-top:0px;
+        width:300px;
+        height:260px;
+        span{
+          width:30px;
+          line-height:24px;
+          text-align: center;
+          font-size: 18px;
+          color:#ACAFB5;
+        }
+        input{
+          border: none;
+          width:218px;
+          height:26px;
+          line-height: 26px;
+          outline: none;
+          background-color: #FFF;
+        }
+        .input_1{
+          margin: auto;
+          width:260px;
+          height:30px;
+          background-color: #FFF;
+          border-radius: 4px;
+        }
+        .input_2{
+          margin: auto;
+          margin-top: 20px;
+          width:260px;
+          height:30px;
+          border-radius: 4px;
+          background-color: #FFF;
+        }
+        .btn{
+          display: block;
+          margin:auto;
+          margin-top:30px;
+          width:260px;
+          height:36px;
+          font-size:18px;
+          background-color: #1F518C;
+          border: #1C98FA;
+        }
+      }
+    }
+  }
+}

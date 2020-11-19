@@ -1,0 +1,794 @@
+@CHARSET "UTF-8";
+.folder_wrenchIcon {
+    background-image:url(../images/icon/folder_wrench.png) !important;
+ }
+
+.folder_cameraIcon {
+    background-image:url(../images/icon/folder_camera.png) !important;
+ }
+ 
+.folder_userIcon {
+    background-image:url(../images/icon/folder_user.png) !important;
+ }
+
+.folder_feedIcon {
+    background-image:url(../images/icon/folder_feed.png) !important;
+ }
+ 
+.cupIcon {
+    background-image:url(../images/icon/cup.png) !important;
+ }
+ 
+.application_homeIcon {
+    background-image:url(../images/icon/application_home.png) !important;
+ }
+
+.groupIcon {
+    background-image:url(../images/icon/group.png) !important;
+ }
+ 
+.commentsIcon {
+    background-image:url(../images/icon/comments.png) !important;
+ }
+
+.applicationIcon {
+    background-image:url(../images/icon/application.png) !important;
+ }
+ 
+.application_doubleIcon {
+    background-image:url(../images/icon/application_double.png) !important;
+ }
+ 
+.application_cascadeIcon {
+    background-image:url(../images/icon/application_cascade.png) !important;
+ }
+ 
+.tbar_synchronizeIcon {
+    background-image:url(../images/icon/tbar_synchronize.png) !important;
+ }
+ 
+.comments_addIcon {
+    background-image:url(../images/icon/comments_add.png) !important;
+ }
+ 
+.page_addIcon {
+    background-image:url(../images/icon/page_add.png) !important;
+ }
+ 
+.page_editIcon {
+    background-image:url(../images/icon/page_edit_1.png) !important;
+ }
+ 
+.page_delIcon {
+    background-image:url(../images/icon/page_del.png) !important;
+ }
+
+.page_refreshIcon {
+    background-image:url(../images/icon/page_refresh.png) !important;
+ }
+ 
+.comment_addIcon {
+    background-image:url(../images/icon/comment_add.png) !important;
+ }
+
+.acceptIcon {
+    background-image:url(../images/icon/accept.png) !important;
+ }
+ 
+.deleteIcon {
+    background-image:url(../images/icon/delete.png) !important;
+ }
+ 
+.createIcon {
+    background-image:url(../images/icon/create.png) !important;
+ }
+
+.status_awayIcon {
+    background-image:url(../images/icon/status_away.png) !important;
+ }
+ 
+.status_busyIcon {
+    background-image:url(../images/icon/status_busy.png) !important;
+ }
+ 
+.arrow_refreshIcon {
+    background-image:url(../images/icon/arrow_refresh.png) !important;
+ }
+ 
+.lockIcon {
+    background-image:url(../images/icon/lock.png) !important;
+ }
+ 
+.wrenchIcon {
+    background-image:url(../images/icon/wrench.png) !important;
+ }
+ 
+.book_previousIcon {
+    background-image:url(../images/icon/book_previous.png) !important;
+ }
+ 
+.window_caise_listIcon {
+    background-image:url(../images/icon/window_caise_list.png) !important;
+ }
+ 
+.imageIcon {
+    background-image:url(../images/icon/image.png) !important;
+ }
+ 
+.application_view_listIcon {
+    background-image:url(../images/icon/application_view_list.png) !important;
+ }
+ 
+.keyIcon {
+    background-image:url(../images/icon/key.png) !important;  
+ }
+ 
+.page_findIcon {
+    background-image:url(../images/icon/page_find.png) !important;
+ }
+ 
+.pageIcon{
+    background-image:url(../images/icon/page.png) !important;
+ }
+ 
+.layout_contentIcon {
+    background-image:url(../images/icon/layout_content.png) !important;
+ }
+ 
+.chart_organisationIcon {
+    background-image:url(../images/icon/chart_organisation.png) !important;
+ }
+
+.buildingIcon {
+    background-image:url(../images/icon/building.png) !important;
+ }
+ 
+.user_femaleIcon {
+    background-image:url(../images/icon/user_female.png) !important;
+ }
+ 
+.status_onlineIcon {
+    background-image:url(../images/icon/status_online.png) !important;
+ }
+ 
+.expand-allIcon {
+    background-image:url(../images/icon/expand-all.gif) !important;
+ }
+ 
+.collapse-allIcon {
+    background-image:url(../images/icon/collapse-all.gif) !important;
+ }
+ 
+.editNodeIcon {
+    background-image:url(../images/icon/edit-node.png) !important;
+ }
+ 
+.drinkIcon {
+    background-image:url(../images/icon/drink.png) !important;
+ }
+ 
+.docIcon {
+    background-image:url(../images/icon/doc.jpg) !important;
+ }
+.processIcon {
+    background-image:url(../images/icon/process.gif) !important;
+ }
+.processDesignIcon {
+    background-image:url(../images/icon/processDesign.gif) !important;
+ }
+ 
+.userIcon {
+    background-image:url(../images/icon/user.png) !important;
+    background-repeat:no-repeat;
+    background-position:right;    
+ }
+ 
+.group_linkIcon {
+    background-image:url(../images/icon/group_link.png) !important;
+ }
+ 
+.award_star_silver_3Icon {
+    background-image:url(../images/icon/award_star_silver_3.png) !important;
+ }
+ 
+.medal_silver_3Icon {
+    background-image:url(../images/icon/medal_silver_3.png) !important;
+ }
+ 
+.medal_gold_1Icon {
+    background-image:url(../images/icon/medal_gold_1.png) !important;
+ }
+ 
+.cancel_48Icon {
+    background-image:url(../images/icon/cancel_48.png) !important;
+ }
+ 
+.themeIcon {
+    background-image:url(../images/icon/theme.png) !important;
+ }
+ 
+.config2Icon {
+    background-image:url(../images/icon/config2.png) !important;
+ }
+ 
+.imIcon {
+    background-image:url(../images/icon/im.png) !important;
+ }
+ 
+.theme2Icon {
+    background-image:url(../images/icon/theme2.png) !important;
+ }
+ 
+.checkIcon {
+    background-image:url(../images/icon/check.png) !important;
+ }
+
+.printerIcon {
+    background-image:url(../images/icon/printer.png) !important;
+ }
+ 
+.previewIcon {
+    background-image:url(../images/icon/preview.png) !important;
+ }
+ 
+.page_excelIcon {
+    background-image:url(../images/icon/page_excel.png) !important;
+ }
+ 
+.pluginIcon {
+    background-image:url(../images/icon/plugin.png) !important;
+ }
+ 
+.addIcon {
+    background-image:url(../images/icon/add.png) !important;
+ }
+ 
+.edit1Icon {
+    background-image:url(../images/icon/edit1.png) !important;
+ }
+ 
+.disconnectIcon {
+    background-image:url(../images/icon/disconnect.png) !important;
+ }
+ 
+.tableIcon {
+    background-image:url(../images/icon/table.png) !important;
+ }
+ 
+.database_connectIcon {
+    background-image:url(../images/icon/database_connect.png) !important;
+ }
+ 
+.exclamationIcon {
+    background-image:url(../images/icon/exclamation.png) !important;
+ }
+
+.bugIcon {
+    background-image:url(../images/icon/bug.png) !important;
+ }
+ 
+.configIcon {
+    background-image:url(../images/icon/config.png) !important;
+ }
+ 
+.server_connectIcon {
+    background-image:url(../images/icon/server_connect.png) !important;
+ }
+ 
+.database_refreshIcon {
+    background-image:url(../images/icon/database_refresh.png) !important;
+ }
+
+.form_resetIcon {
+    background-image:url(../images/icon/reset.png) !important;
+ }
+ 
+.form_saveIcon {
+    background-image:url(../images/icon/save.png) !important;
+ }
+ 
+.user_commentIcon {
+    background-image:url(../images/icon/user_comment.png) !important;
+ }
+ 
+.imagesIcon {
+    background-image:url(../images/icon/images.png) !important;
+ }
+ 
+.docsIcon {
+    background-image:url(../images/icon/docs.gif) !important;
+ }
+ 
+.group_addIcon {
+    background-image:url(../images/icon/group_add.png) !important;
+ }
+ 
+.message_editIcon {
+    background-image:url(../images/icon/message_edit.png) !important;
+ }
+ 
+.uploadIcon {
+    background-image:url(../images/icon/upload.png) !important;
+ }
+
+.downloadIcon {
+    background-image:url(../images/icon/download.png) !important;
+ }
+ 
+.app_boxesIcon {
+    background-image:url(../images/icon/app_boxes.png) !important;
+ }
+ 
+.app_leftIcon {
+    background-image:url(../images/icon/app_left.png) !important;
+ }
+ 
+.app_rightIcon {
+    background-image:url(../images/icon/app_right.png) !important;
+ }
+ 
+.arrow_switchIcon {
+    background-image:url(../images/icon/arrow_switch.png) !important;
+ }
+ 
+.plugin_addIcon {
+    background-image:url(../images/icon/plugin_add.png) !important;
+ }
+ 
+.plugin_editIcon {
+    background-image:url(../images/icon/plugin_edit.png) !important;
+ }
+ 
+.cocoonIcon {
+    background-image:url(../images/icon/cocoon.png) !important;
+ }
+
+.dictionaryIcon {
+    background-image:url(../images/icon/dictionary.png) !important;
+ }
+
+.base_dataIcon {
+    background-image:url(../images/icon/base_data.png) !important;
+ }
+ 
+.systemIcon {
+    background-image:url(../images/icon/system.png) !important;
+ }
+ 
+.cmpIcon {
+    background-image:url(../images/icon/cmp.gif) !important;
+ }
+ 
+.user_group {
+    background-image:url(../images/icon/user_group.png) !important;
+ }
+
+.processDesignIcon {
+    background-image:url(../images/workflow/icon/processDesign.gif) !important;
+ }
+ 
+.control_play_blue {
+    background-image:url(../images/icon/control_play_blue.png) !important;
+ }
+
+.closeIcon {
+    background-image:url(../images/icon/close.png) !important;
+}
+
+.magnifierIcon {
+    background-image:url(../images/icon/magnifier.png) !important;
+}
+
+.commentEditIcon {
+    background-image:url(../images/icon/comment_edit.png) !important;
+}
+
+.mailReadIcon {
+    background-image:url(../images/icon/mail-mark-read-2.png) !important;
+}
+
+.mailUnReadIcon {
+    background-image:url(../images/icon/mail-mark-unread-2.png) !important;
+}
+
+.mailQueueIcon {
+    background-image:url(../images/icon/mail-queue.png) !important;
+}
+
+.wordIcon {
+    background-image:url(../images/icon/word.png) !important;
+}
+
+.excelIcon {
+    background-image:url(../images/icon/excel.png) !important;
+}
+
+.itemIcon {
+    background-image:url(../images/icon/item.png) !important;
+}
+
+.formIcon {
+    background-image:url(../images/icon/form.png) !important;
+}
+
+.formEditIcon {
+    background-image:url(../images/icon/form-edit.png) !important;
+}
+
+.reportIcon {
+    background-image:url(../images/icon/report.png) !important;
+}
+
+.bricksIcon {
+    background-image:url(../images/icon/bricks.png) !important;
+}
+
+.calenderTasksIcon {
+    background-image:url(../images/icon/calender-tasks.png) !important;
+}
+
+.calenderTimelineIcon {
+    background-image:url(../images/icon/calender-timeline.png) !important;
+}
+
+.calenderUpcomingEventsIcon {
+    background-image:url(../images/icon/calender-upcoming-events.png) !important;
+}
+
+.calenderTodayIcon {
+    background-image:url(../images/icon/calender-today.png) !important;
+}
+
+.formMagnifyIcon {
+    background-image:url(../images/icon/form-magnify.png) !important;
+}
+
+.brickIcon {
+    background-image:url(../images/icon/brick.png) !important;
+}
+
+.brickAddIcon {
+    background-image:url(../images/icon/brick-add.png) !important;
+}
+
+.brickGoIcon {
+    background-image:url(../images/icon/brick-go.png) !important;
+}
+
+.gridIcon {
+    background-image:url(../images/icon/grid.png) !important;
+}
+
+.reportGoIcon {
+    background-image:url(../images/icon/report-go.png) !important;
+}
+
+.reportKeyIcon {
+    background-image:url(../images/icon/report-key.png) !important;
+}
+
+.userGroupIcon {
+    background-image:url(../images/icon/userGroup.png) !important;
+}
+
+.kgpgExportIcon {
+    background-image:url(../images/icon/kgpg_export.png) !important;
+}
+
+.kgpgGenIcon {
+    background-image:url(../images/icon/kgpg_gen.png) !important;
+}
+
+.kgpgIdentityIcon {
+    background-image:url(../images/icon/kgpg_identity.png) !important;
+}
+
+.kgpgInfoIcon {
+    background-image:url(../images/icon/kgpg_info.png) !important;
+}
+
+.kgpgImportIcon {
+    background-image:url(../images/icon/kgpg_import.png) !important;
+}
+
+.tagGreenIcon {
+    background-image:url(../images/icon/tag-green.png) !important;
+}
+
+.pageWhiteGetIcon {
+    background-image:url(../images/icon/page-white_get.png) !important;
+}
+
+.orderIcon {
+    background-image:url(../images/icon/order.png) !important;
+}
+
+.userGroupGoIcon {
+    background-image:url(../images/icon/user-group-go.png) !important;
+}
+
+.computerIcon {
+    background-image:url(../images/icon/computer.png) !important;
+}
+
+.codeClassIcon {
+    background-image:url(../images/icon/code-class.png) !important;
+}
+
+.networkIdleIcon {
+    background-image:url(../images/icon/network-idle.png) !important;
+}
+
+.folderStarIcon {
+    background-image:url(../images/icon/folder-star.png) !important;
+}
+
+.timeIcon {
+    background-image:url(../images/icon/time.png) !important;
+}
+
+.timeAddIcon {
+    background-image:url(../images/icon/time-add.png) !important;
+}
+
+.timeGoIcon {
+    background-image:url(../images/icon/time-go.png) !important;
+}
+
+.appointmentNewIcon {
+    background-image:url(../images/icon/appointment-new.png) !important;
+}
+
+.executeIcon {
+    background-image:url(../images/icon/execute.png) !important;
+}
+
+.pauseIcon {
+    background-image:url(../images/icon/pause.png) !important;
+}
+
+.resumeIcon {
+    background-image:url(../images/icon/resume.png) !important;
+}
+
+.runIcon {
+    background-image:url(../images/icon/run.png) !important;
+}
+
+.view_statisticsIcon {
+    background-image:url(../images/icon/view-statistics.png) !important;
+}
+
+.ktimerIcon {
+    background-image:url(../images/icon/ktimer.png) !important;
+}
+
+.backIcon {
+    background-image:url(../images/icon/back.png) !important;
+}
+
+.viewportIcon {
+    background-image:url(../images/icon/viewport.png) !important;
+}
+
+.copyIcon {
+    background-image:url(../images/icon/copy.png) !important;
+}
+
+.packageIcon {
+    background-image:url(../images/icon/package.png) !important;
+}
+
+.calendarIcon {
+    background-image:url(../images/icon/calendar.png) !important;
+}
+
+.messageIcon {
+    background-image:url(../images/icon/message.png) !important;
+}
+
+.insertChartBarIcon {
+    background-image:url(../images/icon/insert-chart-bar.png) !important;
+}
+
+.insertChartCurveIcon {
+    background-image:url(../images/icon/insert-chart-curve.png) !important;
+}
+
+.insertChartLineIcon {
+    background-image:url(../images/icon/insert-chart-line.png) !important;
+}
+
+.insertChartPie2Icon {
+    background-image:url(../images/icon/insert-chart-pie-2.png) !important;
+}
+
+.modelIcon {
+    background-image:url(../images/icon/model.png) !important;
+}
+
+.applyIcon {
+    background-image:url(../certImages/apply.png) !important;
+    background-size: 100% 100%;
+}
+
+.apply2 {
+    background-image:url(../certImages/apply2.png) !important;
+    background-size: 100% 100%;
+}
+
+.certTest2 {
+    background-image:url(/certImages/certTest2.png) !important;
+    background-size: 100% 100%;
+}
+
+.factoryInspect {
+    background-image:url(/certImages/factoryInspect.png) !important;
+    background-size: 100% 100%;
+}
+
+
+
+.客户 {
+    background-image:url(../certImages/index/客户.png) !important;
+    background-size: 100% 100%;
+}
+
+
+.提醒 {
+    background-image:url(../certImages/index/提醒.png) !important;
+    background-size: 100% 100%;
+}
+
+.人员 {
+   background-image:url(../certImages/index/人员.png) !important;
+    background-size: 100% 100%;
+}
+
+.费用 {
+    background-image:url(/certImages/index/费用.png) !important;
+    background-size: 100% 100%;
+}
+.证书 {
+    background-image:url(/certImages/index/证书.png) !important;
+    background-size: 100% 100%;
+}
+.专家 {
+    background-image:url(/certImages/index/专家.png) !important;
+    background-size: 100% 100%;
+}
+.待办 {
+    background-image:url(/certImages/index/待办.png) !important;
+    background-size: 100% 100%;
+}
+
+.filterAdd {
+    background-image:url(/certImages/filterAdd.png) !important;
+     background-size: 100% 100%;
+}
+
+.filterCondition {
+    background-image:url(/certImages/filterCondition.png) !important;
+     background-size: 100% 100%;
+}
+.filter {
+    background-image:url(/certImages/filter.png) !important;
+     background-size: 100% 100%;
+}
+
+/* 姚昌盛 */
+
+.customerIcon {
+    background-image:url(../images/icon/customer.png) !important;
+    background-size : 100% 100%;
+}
+
+.customerServiceIcon{
+    background-image:url(../images/icon/customerService.png) !important;
+    background-size : 100% 100%;
+}
+
+.certApplyIcon{
+    background-image:url(../images/icon/certApply.png) !important;
+    background-size : 100% 100%;
+}
+
+.basicIcon{
+    background-image:url(../images/icon/basic.png) !important;
+    background-size : 100% 100%;
+}
+
+.employeeIcon{
+    background-image:url(../images/icon/employee.png) !important;
+    background-size : 100% 100%;
+}
+
+.employeeCertificateIcon{
+    background-image:url(../images/icon/employeeCertificate.png) !important;
+    background-size : 100% 100%;
+}
+
+.employeeTrainingIcon{
+    background-image:url(../images/icon/employeeTraining.png) !important;
+    background-size : 100% 100%;
+}
+
+.employeeRewardIcon{
+    background-image:url(../images/icon/employeeReward.png) !important;
+    background-size : 100% 100%;
+}
+
+.expertIcon{
+    background-image:url(../images/icon/expert.png) !important;
+    background-size : 100% 100%;
+}
+.expertWorkRecordIcon{
+    background-image:url(../images/icon/expertWorkRecord.png) !important;
+    background-size : 100% 100%;
+}
+.搜索结果 {
+    background-image:url(../images/icon/搜索结果.png) !important;
+    background-size:100% 100%;
+}
+
+
+
+.systemManage {
+    background-image:url(../commonImages/index/systemManager.png) !important;
+    background-size:100% 100%;
+}
+.userManage {
+    background-image:url(../commonImages/userManage.png) !important;
+    background-size:100% 100%;
+}
+.companyManage {
+    background-image:url(../commonImages/companyManage.png) !important;
+    background-size:100% 100%;
+}
+.companyBaseInfo {
+    background-image:url(../commonImages/companyBaseInfo.png) !important;
+    background-size:100% 100%;
+}
+.companyServiceManage {
+    background-image:url(../commonImages/companyServiceManage.png) !important;
+    background-size:100% 100%;
+}
+.customerManage {
+    background-image:url(../commonImages/customerManage.png) !important;
+    background-size:100% 100%;
+}
+.orgManage {
+    background-image:url(../commonImages/orgManage.png) !important;
+    background-size:100% 100%;
+}
+.roleManage {
+    background-image:url(../commonImages/roleManage.png) !important;
+    background-size:100% 100%;
+}
+
+/** liy */
+/* 合同 */
+.contractManage {
+	background-image:url(../certImages/resource/contractManage.png) !important;
+    background-size:100% 100%;
+}
+/* 印章 */
+.sealManage {
+	background-image:url(../certImages/resource/sealManage.png) !important;
+    background-size:100% 100%;
+}
+/* 测量溯源服务 */
+.sourceProviderManage {
+	background-image:url(../certImages/resource/sourceProviderManage.png) !important;
+    background-size:100% 100%;
+}
+/* 分包实验室 */
+.sublabManage {
+	background-image:url(../certImages/resource/sublabManage.png) !important;
+    background-size:100% 100%;
+}
+/* 综合管理 */
+.oaManage {
+	background-image:url(../certImages/resource/oaManage.png) !important;
+    background-size:100% 100%;
+}

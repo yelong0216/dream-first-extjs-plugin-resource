@@ -1,0 +1,1 @@
+<script language="JavaScript" type="text/javascript" src="${STATIC_RESOURCES_ROOT_PATH}/js/util/sm4/sm4.js"></script>

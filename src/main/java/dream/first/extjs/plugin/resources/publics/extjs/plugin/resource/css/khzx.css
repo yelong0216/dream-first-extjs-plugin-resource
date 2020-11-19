@@ -1,0 +1,185 @@
+	/***
+	用于客户满意度反馈信息样式
+	**/
+	#bt{
+		padding-top:30px;
+	}
+	body{
+		margin:0px; padding:0px;
+    	font-family:Arial, Helvetica, sans-serif;
+		background-color:#ffffff;
+	}
+	.bodyer{  
+		width:920px;  
+		margin:0 auto; 
+		margin-top:30px; 
+		padding-bottom:50px;
+	}
+	.khyjdcb{ 
+		width:840px; 
+		margin:0 auto; 
+	}
+	.table1{
+		border:1px solid #dadedc;
+	}
+	.table1 h2{ 
+		font-size:14px; 
+		line-height:30px; 
+		color:#656565; 
+		border-top:1px solid #dadedc; 
+		border-bottom:1px solid #dadedc; 
+		background-color:#f3f3f3; 
+		text-indent:30px; 
+		font-weight:bold;/*加粗显示字体*/
+	}
+	.table1 .innter1,.innter2,.innter3,.innter4,.innter5,.innter6,.innter7{ 
+		padding-left:30px;
+	}
+	.table1 .innter1 span{ 
+		float:left; 
+		font-size:14px; 
+		line-height:26px; 
+		font-weight:normal;
+		padding-right:10px;
+	}
+	.table1 .innter1 span.span1{ 
+		padding-left:55px;
+	}
+	.table1 .innter1 input{ 
+		float:left; 
+		width:265px; 
+		height:24px; 
+		border:none;
+	}
+	.table1 .innter2 input{ 
+		float:left; 
+		display:block; 
+		width:15px; 
+		height:15px; 
+		background-color:transparent; 
+		border:none;
+	}
+	.table1 .innter2 span{
+		float:left; 
+		display:block; 
+		width:250px; 
+		font-size:14px; 
+		line-height:15px; 
+		color:#5e5e5e;
+	}
+	.table1 .innter3 span{ 
+		float:left; 
+		font-size:14px; 
+		line-height:26px; 
+		color:#5e5e5e; 
+		padding-right:10px;
+	}
+	.table1 .innter3 span.span1{ 
+		padding-left:55px;
+	}
+	.table1 .innter3 input{ 
+		float:left; 
+		width:565px; 
+		height:24px; 
+		border:none;
+	}
+	.table1 .innter3 .input1{ 
+		width:300px;
+	}
+	.table1 .innter4 input{ 
+		float:left; 
+		display:block; 
+		width:15px; 
+		height:15px; 
+		background-color:transparent; 
+		border:none;
+	}
+	.table1 .innter4 span{
+		float:left; 
+		display:block; 
+		font-size:14px; 
+		line-height:15px; 
+		color:#5e5e5e; 
+		padding-left:5px; 
+		padding-right:50px;
+	}
+	.table1 .innter5 input{ 
+		float:left; 
+		display:block; 
+		width:15px; 
+		height:15px; 
+		background-color:transparent; 
+		border:none;
+	}
+	.table1 .innter5 .input1{
+		float:left; 
+		width:265px; 
+		height:24px; 
+		border:none;
+		color:#5e5e5e;
+	}
+	.table1 .innter5 .input2{
+		margin-top:7px;
+	}
+	.table1 .innter5 span{
+		float:left; 
+		display:block; 
+		width:240px; 
+		font-size:14px; 
+		line-height:15px; 
+		color:#5e5e5e; 
+		padding-left:5px;
+	}
+	.table1 .innter5 .span1{
+	 	width:auto; 
+	 	line-height:26px;
+	}
+	.table1 .innter5 .span2{  
+		line-height:26px;
+	}
+	.table1 .innter6 textarea{ 
+		text-indent:2em;
+		width:700px; 
+		height:80px; 
+		border: solid 1px #acacac; 
+		overflow:auto;
+		font-family: sans-serif,serif;
+		font-size: 14px;
+	}
+	.table1 .innter7 input{ 
+		float:left; 
+		display:block; 
+		width:15px; 
+		height:15px; 
+		background-color:transparent; 
+		border:none;
+	}
+	.table1 .innter7 span{
+		float:left; 
+		display:block;  
+		font-size:14px; 
+		line-height:15px; 
+		color:#5e5e5e; 
+		padding-left:5px; 
+		padding-right:50px;
+	}
+	.table1 .innter7 .span1{ 
+		width:auto; 
+		line-height:26px;
+	}
+	.table1 .innter7 .span2{  
+		font-size:14px; 
+		line-height:30px; 
+		color:#656565; 
+		font-weight:900; 
+		border-bottom:2px solid #656565; 
+		padding:0px;
+	}
+	.table1 .innter7 #button{ 
+		width:267px; 
+		height:30px; 
+		border:0px; 
+		text-align: center;
+	 	}
+	
+	
